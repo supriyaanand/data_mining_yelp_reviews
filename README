@@ -1,0 +1,17 @@
+This code snippet analyzes Yelp reviews pulled using the Yelp API and documents highly rated places/attractions and hidden gems in San Francisco. To see it in action, 
+
+1) Install Jupyter Notebook
+
+2) Install ipython, numpy, pandas, matplotlib, requests, oauth2 Python modules
+
+3) Download this notebook onto the local system. Start the notebook server from the command line (Terminal on Mac/Linux, CMD prompt on Windows) by running the following command:
+
+	$ jupyter notebook
+
+	Opens the browser with URL of the web application (by default, http://127.0.0.1:8888)
+
+	Notebook dashboard will show a list of the notebooks, files, and subdirectories in the directory where the notebook server was started
+
+4) Update access tokens to authenticate requests
+
+5) To run the code, click on the run cell option for each cell in the notebook.
